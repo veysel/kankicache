@@ -4,7 +4,7 @@
 Kanki Cache
 
 [![NuGet version](https://badge.fury.io/nu/kankicache.svg)](https://www.nuget.org/packages/kankicache/)
-[![Build Status](https://travis-ci.com/veysel/kankicache.svg?branch=main)](https://travis-ci.com/github/veysel/kankicache)
+[![Build Status](https://travis-ci.org/veysel/kankicache.svg?branch=main)](https://travis-ci.org/github/veysel/kankicache)
 
 <br>
 
